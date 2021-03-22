@@ -37,3 +37,5 @@
 
 
  * Or you can run with docker: docker run -itd --name tetsv3 -p 8000:8000 tvh0711/django:v3
+ * I run a example in Ip address: http://139.162.54.191:8000/
+ * Supperuser (username: admin, password: admin)
